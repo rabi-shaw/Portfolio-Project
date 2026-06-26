@@ -62,6 +62,7 @@ Objectives
 •	⚡ Optimized DAX measures for accurate KPI calculations 
 •	🔄 Automated data transformation using Power Query 
 •	📱 Clean, responsive, and business-friendly dashboard design
+
 Walk Through of Key Visuals
 1. KPI Cards
 Displays high-level business metrics such as Total Visits, Unique Customers, Productive Visits, Inactive Customers, Average Order Value, and Total Working Hours, providing an instant overview of sales performance.
