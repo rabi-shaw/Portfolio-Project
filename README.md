@@ -1,7 +1,7 @@
 **1.	Project Title / Headline**
 Business Performance Dashboard using Power BI
 
-**2.	Short Description / Purpose**
+**2.	Short Description / Purpose** :- 
 Sales Performance KPIs
 Provides a high-level overview of sales performance by tracking key business metrics such as total sales, order volume, customer coverage, and sales trends. It enables management to monitor overall business performance and identify areas requiring attention.
 
