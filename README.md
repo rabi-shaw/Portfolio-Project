@@ -14,7 +14,8 @@ Measures the productivity of field sales representatives through KPIs such as to
 Customer Analytics
 Provides insights into customer behaviour by analysing unique customers, repeat vs. new customers, inactive customers, customer classifications, and purchasing patterns. This report supports customer retention strategies and business growth.
 
-**3.	Tech Stack** :- 
+**3.	Tech Stack** :-  
+
 •	📊 Power BI Desktop – Data visualisation and interactive dashboard development 
 •	📈 DAX (Data Analysis Expressions) – Custom measures, KPIs, calculated columns, and business logic 
 •	🔄 Power Query (M Language) – Data extraction, cleaning, transformation, and shaping 
