@@ -121,6 +121,6 @@ Users can click on visuals to drill down into detailed information and automatic
 
 
 ### Link
-![dg](https://app.powerbi.com/links/A6zLIpdko8?ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f&pbi_source=linkShare&portalSessionId=8e3da131-a00e-446a-a85c-0ada0587d1cd&fromEntryPoint=share)
+![Power BI Dashboard Link](https://app.powerbi.com/groups/me/reports/8398290c-03b9-4261-8e2d-56d28d472189/edf66f6c2cece52ebea9?experience=power-bi)
 
 
