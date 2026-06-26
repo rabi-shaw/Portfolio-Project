@@ -108,7 +108,7 @@ Users can click on visuals to drill down into detailed information and automatic
 
 **8.	Screenshots / Demos / Link** :- 
 ### Sales Performance
-![Sales Performance Preview](https://github.com/rabi-shaw/Portfolio-Project/blob/main/Sales%20Performance%20KPIs.png)
+![](https://github.com/rabi-shaw/Portfolio-Project/blob/main/Sales%20Performance%20KPIs.png)
 
 ### Activity Performance
 ![Activity Performance Preview](https://github.com/rabi-shaw/Portfolio-Project/blob/main/Activity%20Performance.png)
