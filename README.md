@@ -1,7 +1,7 @@
-1.	Project Title / Headline
+**1.	Project Title / Headline**
 Business Performance Dashboard using Power BI
 
-2.	Short Description / Purpose
+**2.	Short Description / Purpose**
 Sales Performance KPIs
 Provides a high-level overview of sales performance by tracking key business metrics such as total sales, order volume, customer coverage, and sales trends. It enables management to monitor overall business performance and identify areas requiring attention.
 
@@ -14,7 +14,7 @@ Measures the productivity of field sales representatives through KPIs such as to
 Customer Analytics
 Provides insights into customer behaviour by analysing unique customers, repeat vs. new customers, inactive customers, customer classifications, and purchasing patterns. This report supports customer retention strategies and business growth.
 
-3.	Tech Stack
+**3.	Tech Stack**
 •	📊 Power BI Desktop – Data visualisation and interactive dashboard development 
 •	📈 DAX (Data Analysis Expressions) – Custom measures, KPIs, calculated columns, and business logic 
 •	🔄 Power Query (M Language) – Data extraction, cleaning, transformation, and shaping 
@@ -23,12 +23,12 @@ Provides insights into customer behaviour by analysing unique customers, repeat 
 •	📉 Data Visualisation – KPI Cards, Matrix, Bar Charts, Line Charts, Pie/Doughnut Charts, Slicers, and Drill-through 
 •	⚡ Performance Optimisation – Efficient DAX measures and optimised report performance
 
-4.	Data Source
+**4.	Data Source**
 •	Microsoft Excel (.xlsx) – Sales activity and customer visit data used as the primary data source. 
 •	Data imported into Power BI using Power Query for cleaning and transformation.
 
 
-5.	Features / Highlights
+**5.	Features / Highlights**
 Business Problem
 Sales managers and business leaders often struggle to monitor field sales activities and customer engagement due to scattered data across multiple Excel files and manual reporting processes. This makes it difficult to measure sales team productivity, identify inactive customers, track customer visits, and make timely, data-driven decisions.
 
@@ -79,7 +79,8 @@ Shows the total and average working hours of the sales team, helping managers mo
 Allows users to filter the dashboard by Month, Sales Representative, Customer, Customer Type, and other dimensions, enabling customized analysis.
 8. Drill-Down & Cross-Filtering
 Users can click on visuals to drill down into detailed information and automatically cross-filter related charts for deeper business insights.
-6.	Key Business Insights
+
+**6.	Key Business Insights**
 •	Monitor overall sales performance through key KPIs. 
 •	Track field force productivity and customer visit efficiency. 
 •	Identify new, repeat, and inactive customers. 
@@ -87,7 +88,7 @@ Users can click on visuals to drill down into detailed information and automatic
 •	Analyse monthly trends to support strategic decision-making. 
 •	Improve sales coverage and operational efficiency through interactive reporting.
 
-7.	Key Business Questions
+**7.	Key Business Questions**
 1.	How many total customer visits were completed during the selected period? 
 2.	How many unique customers were visited? 
 3.	What is the split between new, repeat, and inactive customers? 
@@ -104,7 +105,7 @@ Users can click on visuals to drill down into detailed information and automatic
 14.	Are field visits being completed according to the planned schedule? 
 15.	Which KPIs require immediate attention to improve sales performance?
 
-8.	Screenshots / Demos / Link
+**8.	Screenshots / Demos / Link**
 ### Sales Performance
 
 ### Customer Analytics
