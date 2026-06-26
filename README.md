@@ -117,7 +117,7 @@ Users can click on visuals to drill down into detailed information and automatic
 ![Field Force Performance Preview](https://github.com/rabi-shaw/Portfolio-Project/blob/main/Field%20Force%20Productivity.png)
 
 ### Customer Analytics
-![Customer Analytics Perview](https://github.com/rabi-shaw/Portfolio-Project/blob/main/Customer%20Analytics.png)
+![Customer Analytics Perview](<iframe title="Activity Performance" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=8398290c-03b9-4261-8e2d-56d28d472189&autoAuth=true&ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f" frameborder="0" allowFullScreen="true"></iframe>)
 
 
 ### Link
