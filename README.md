@@ -108,13 +108,16 @@ Users can click on visuals to drill down into detailed information and automatic
 
 **8.	Screenshots / Demos / Link** :- 
 ### Sales Performance
-Portfolio-Project/Sales Performance KPIs.png at main · rabi-shaw/Portfolio-Project
+https://github.com/rabi-shaw/Portfolio-Project/blob/main/Sales%20Performance%20KPIs.png
 
 ### Customer Analytics
+https://github.com/rabi-shaw/Portfolio-Project/blob/main/Customer%20Analytics.png
 
 ### Field Force Performance
+https://github.com/rabi-shaw/Portfolio-Project/blob/main/Field%20Force%20Productivity.png
 
 ### Activity Performance
+https://github.com/rabi-shaw/Portfolio-Project/blob/main/Activity%20Performance.png
 
 ### Link
 https://app.powerbi.com/links/A6zLIpdko8?ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f&pbi_source=linkShare&portalSessionId=8e3da131-a00e-446a-a85c-0ada0587d1cd&fromEntryPoint=share
