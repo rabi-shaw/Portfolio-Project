@@ -108,6 +108,7 @@ Users can click on visuals to drill down into detailed information and automatic
 
 **8.	Screenshots / Demos / Link** :- 
 ### Sales Performance
+Portfolio-Project/Sales Performance KPIs.png at main · rabi-shaw/Portfolio-Project
 
 ### Customer Analytics
 
